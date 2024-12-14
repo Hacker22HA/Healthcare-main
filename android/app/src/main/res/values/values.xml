@@ -1,0 +1,8 @@
+<resources>
+    <string name="default_web_client_id"></string>
+    <string name="firebase_database_url"></string>
+    <string name="gcm_defaultSenderId">571185554533</string>
+    <string name="google_api_key">AIzaSyBR_aMB_RGbZaGVmrD0f4C1mg3-jGqZ3dI</string>
+    <string name="google_app_id">1:571185554533:android:4e16c355b736309e5a528c</string>
+    <string name="project_id">healthcare-app-13489</string>
+</resources>
